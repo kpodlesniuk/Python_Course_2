@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Practice basic Python data structures.
 
